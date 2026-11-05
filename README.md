@@ -8,4 +8,4 @@
 Python · Flask · SQLAlchemy · LangChain · LangGraph · OpenAI API · MySQL · pytest
 
 #### 📜 Certificates
-정보처리기사 · SQLD · 빅데이터분석기사
+정보처리기사 · SQLD · 빅데이터분석기사 · 컴퓨터활용능력 1급
