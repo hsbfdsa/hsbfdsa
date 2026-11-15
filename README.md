@@ -2,7 +2,7 @@
 
 | 프로젝트 | 한 줄 소개 | 핵심 |
 | --- | --- | --- |
-| **[AI 분리배출 판정 도우미](https://github.com/hsbfdsa/recycle-vision-judge)** <br>`해커톤 · 진행 중` | 사진 한 장으로 지금 버려도 되는지, 무엇을 먼저 처리해야 하는지 알려 주는 서비스 | AI는 관찰만, 판정은 규칙표 · FastAPI · 자동 테스트 68 케이스 |
+| **[AI 분리배출 판정 도우미](https://github.com/hsbfdsa/recycle-vision-judge)** <br>`해커톤` | 사진 한 장으로 지금 버려도 되는지, 무엇을 먼저 처리해야 하는지 알려 주는 서비스 | AI는 관찰만, 판정은 규칙표 · FastAPI · 자동 테스트 68 케이스 |
 | **[AI News Curator](https://github.com/hsbfdsa/capstone-design-2)** <br>`캡스톤 디자인 II` | 관점이 다른 가상 구독자 투표로 화제성까지 반영하는 멀티에이전트 뉴스레터 | LangGraph · 관심도 3.36점 (Basic RAG 대비 +27%) |
 | **[학부모 민원 챗봇](https://github.com/hsbfdsa/capstone-design-1)** <br>`캡스톤 디자인 I` | 카카오톡으로 학부모 민원을 1차 응대하는 LLM 챗봇과 담당자용 관리자 웹 | Flask · SQLAlchemy · Azure 배포 시연 |
 
